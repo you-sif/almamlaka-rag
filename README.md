@@ -4,7 +4,6 @@ A retrieval-augmented (RAG) chatbot that answers questions **only** from three p
 supplied with the task. Every answer lists its sources (document, page, section), conflicts between
 documents are flagged, follow-up questions work, and the bot replies in Arabic or English.
 
-- **Live app:** `https://<your-app>.streamlit.app` (replace with the deployed link)
 - **Source code:** https://github.com/you-sif/almamlaka-rag
 
 ## What was used
